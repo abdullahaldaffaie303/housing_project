@@ -38,9 +38,7 @@ Here are our key findings:
 - Renovate home before listing
 - Consider adding a bathroom as part of renovating
 
-![condition_price](c.png)
-
-![condition&Price.png](attachment:condition&Price.png)
+![condition_price](images/c.png)
 
 ### How does the official king county home grade affect the value ?
 
@@ -66,9 +64,7 @@ Here are our findings:
  Factor in the king county grade when pricing home because you can price 
 the home higher based on a grade of 8 or above
 
-![grade_price](g.png)
-
-![Grade&price.png](attachment:Grade&price.png)
+![grade_price](images/g.png)
 
 ### How much will adding a bathroom increase the value?
 
@@ -97,9 +93,4 @@ Here are our findings:
 - Factor in the king county grade when pricing home because you can price the 
   home higher based on a grade of 8 or above
 
-![Bathroom&price.png](attachment:Bathroom&price.png)
-
-
-```python
-
-```
+![bathroom_price](images/B.png)
